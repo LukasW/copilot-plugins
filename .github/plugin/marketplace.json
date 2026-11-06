@@ -1,0 +1,19 @@
+{
+  "name": "css-plugins",
+  "owner": {
+    "name": "<Team-Name>",
+    "email": "team@css.ch"
+  },
+  "metadata": {
+    "description": "Interner Plugin-Marketplace der CSS mit Skills für Architektur-Dokumentation und Event-Design.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "css-baseline",
+      "source": "./plugins/css-baseline",
+      "description": "Basis-Skills der CSS: arc42-Architekturdokumentation und Kafka-Event-Design.",
+      "version": "0.1.0"
+    }
+  ]
+}

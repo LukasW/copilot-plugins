@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "css-baseline",
+  "description": "Basis-Skills der CSS: arc42-Architekturdokumentation und Kafka-Event-Design.",
+  "version": "0.1.0",
+  "author": {
+    "name": "<Team-Name>",
+    "email": "team@css.ch"
+  }
+}
